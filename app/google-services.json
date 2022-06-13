@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453722371305",
+    "project_id": "firbase-authentication-899cf",
+    "storage_bucket": "firbase-authentication-899cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453722371305:android:9513a9837735f023942c78",
+        "android_client_info": {
+          "package_name": "com.example.baterina_firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453722371305-neihqnq902np0695a4983nvandsmd9v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkp9vHmu8POOwRxSbhXN7PCF5cVy69yRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453722371305-neihqnq902np0695a4983nvandsmd9v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
